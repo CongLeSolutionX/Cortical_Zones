@@ -11,7 +11,7 @@ import SwiftUI
 struct Cortical_ZonesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CorticalZonesView()
         }
     }
 }
